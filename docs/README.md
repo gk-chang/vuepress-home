@@ -7,9 +7,9 @@ heroText: 欢迎访问
 tagline: 一二三四五六七八九十
 # features:
 # - title: 标题1  
-# - details: 细节1
+#   details: 细节1
 # - title: 标题2  
-# - details: 细节2
+#   details: 细节2
 footer: MIT Licensed | Copyright © 2020-present Evan You
 ---
 # Hello VuePress

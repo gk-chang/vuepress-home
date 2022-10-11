@@ -3,7 +3,7 @@ module.exports = {
     keywords: '规范与工法',
     description: '浦江桥隧公司规范与工法',
     repo: 'https://github.com/',  //仓库地址
-    base: '/docs/',  // 配合部署项目
+    base: '/vuepress-home/',  // 配合部署项目
     head: [
         ['link', { rel: 'png', href: '/img/ia_100000074.png' }] //网站标签栏logo
     ],
